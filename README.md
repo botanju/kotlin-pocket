@@ -17,3 +17,9 @@ Criar tela de transferência, fazer requisição via retrofit ao serviço de tra
 
 ## Módulo 4
 Fazer tela de login para a aplicação e salvar o nome do usuário no SharedPreferences
+
+## mocks usados:
+Lista de contatos - https://api.myjson.com/bins/9cblp
+Login realizado - https://api.myjson.com/bins/1daial 
+Transferência realizada - https://api.myjson.com/bins/yeo65 
+Transferencia com erro - https://api.myjson.com/bins/15jvfh 
